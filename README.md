@@ -1,6 +1,18 @@
 # Esatto-Internship-Task
 This is the repository with solution to task from Esatto company for internship 2023.
 
+
+Run app description:
+To run this application follow this steps:
+- download repository on your local machine
+- open a solution of application (recommended VisualStudio with .Net 6.0 LTS)
+- run application without debbuging
+- test endpoints using Swagger 
+
+My application was created in C# language on .Net platform, using ASP.Net Core Web API, without UI and database. 
+
+
+Task description:
 Before we will invite you for the interview we would like to ask you to create your own application which will below functional and non-functional requirements.
 Functional requirements:
 •         Add a customer,
